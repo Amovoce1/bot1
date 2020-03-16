@@ -873,7 +873,7 @@ declare -rgf 'FloodNumber'
 
 source "${HOME}/Nourin/ShellBot.sh"
 
-init --token 'SEU_TOKEN_AQUI'
+init --token '941625429:AAFjbXBaKgIAqeFztWjknWGFja85eyj0PsA'
 
 while true; do
 
